@@ -1,0 +1,13 @@
+fastapi
+beautifulsoup4
+readability-lxml
+tldextract
+python-dotenv
+faiss-cpu 
+sentence-transformers
+transformers
+python-multipart
+fastapi
+uvicorn
+requests
+lxml

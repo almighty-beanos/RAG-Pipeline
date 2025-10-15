@@ -15,4 +15,4 @@ Upon requirement installation, run the following to execute the application
 uvicorn app:app
 ```
 ## Evaluation
-The system accepts a starting URL to crawl within N domain pages and stores the indexing and create vector embeddings of the document chunks which is storec along with the metadata of the vectorised chunks. It also responds to user query in order to obtain information regarding the website.
+The system accepts a starting URL to crawl within N domain pages and stores the indexing and create vector embeddings of the document chunks which is storec along with the metadata of the vectorised chunks. It also responds to user query in order to obtain information regarding the website. Evaluation to be tested with test cases along with comparison and contrast with actual answers.

@@ -14,5 +14,5 @@ Upon requirement installation, run the following to execute the application
 ```bash
 uvicorn app:app
 ```
-##Evaluation
+## Evaluation
 The system accepts a starting URL to crawl within N domain pages and stores the indexing and create vector embeddings of the document chunks which is storec along with the metadata of the vectorised chunks. It also responds to user query in order to obtain information regarding the website.
